@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHEshrak
 - 👀 I’m interested in Web Devolopment and software devolopment.
-- 🌱 I’m currently learning puthon and java-script.
+- 🌱 I’m currently learning python and java-script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? email me mahadihasaneshrak@gmail.com
 - 😄 Pronouns: HE/Him i guess 🙄.
